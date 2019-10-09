@@ -1,0 +1,8 @@
+:root{
+--mbgc:#999;
+}
+h1 {
+    background-color: var(--mbgc);
+}
+
+/* background-color: var(--mbgc); */

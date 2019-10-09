@@ -1,0 +1,13 @@
+h1 {
+    color: white; font-size: 40px; background-color: blue
+}
+body {
+    background-color: slategray; border-style: dotted; border-color: chartreuse;
+    padding: 20px;
+} #no1 {
+    color: yellow;
+
+}
+.fancybullets {
+    list-style: square;
+}
